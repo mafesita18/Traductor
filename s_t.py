@@ -12,7 +12,7 @@ import glob
 
 
 from gtts import gTTS
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 
 
 st.title("TRADUCTOR.")
